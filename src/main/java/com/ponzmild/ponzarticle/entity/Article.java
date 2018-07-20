@@ -30,5 +30,6 @@ public class Article {
 		this.articleId = articleId;
 		this.title = title;
 		this.author = author;
+		this.pages = 1;
 	}
 }
